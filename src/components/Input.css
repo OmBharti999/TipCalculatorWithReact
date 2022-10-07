@@ -65,6 +65,13 @@ input {
   transition: 700ms;
   /* width: 90%; */
 }
+#tipamount,
+#total {
+  background: white;
+  color: black;
+  padding: 5vh;
+}
+
 
 #outputPart span {
   /* padding-top: px; */

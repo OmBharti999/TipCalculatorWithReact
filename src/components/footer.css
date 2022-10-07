@@ -1,0 +1,32 @@
+#footer {
+  box-sizing: border-box;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  /* align-items: end; */
+  padding-right: 10px;
+  background: #dc143c;
+  padding-bottom: 5vh;
+}
+.para {
+  display: flex;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+  /* background: red; */
+}
+.discramer {
+  padding-bottom: 2vh;
+}
+
+.developer {
+  /* box-sizing: border-box; */
+  font-weight: 600;
+  margin: 1vw;
+  background-color: azure;
+  width: 100%;
+  padding: 5vh 0;
+  box-shadow: 5px 5px #181818;
+}
